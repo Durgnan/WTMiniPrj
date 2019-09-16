@@ -1,0 +1,36 @@
+
+
+.nav_items
+{
+	list-style-type: none;
+	margin: 0;
+ 	padding: 0;
+ 	overflow: hidden;
+ 	background-color: #333;
+ 	position: fixed;
+  	top: 0;
+  	width: 100%;
+}
+.nav_items>li{
+	float: right;
+	text-decoration: none;
+	/*border-right: 1px solid #bbb;*/
+}
+/*.nav_items>li:last-child {
+  border-right: none;
+}*/
+.nav_items>li>a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+nav>ul>li:hover
+{
+	background-color: #111;
+}
