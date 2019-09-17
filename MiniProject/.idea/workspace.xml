@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def524ad-cea3-4fc8-ab77-87dbe5ad0a2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectModule/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectModule/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectModule/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectModule/views.py" afterDir="false" />
     </list>
